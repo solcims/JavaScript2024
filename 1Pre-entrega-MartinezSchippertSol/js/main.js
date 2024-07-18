@@ -17,4 +17,4 @@ sumadorDeNotas ();
 
 alert("La sumatoria de la nota de los alumnos es de " + acumulador);
 
-alert ("Nos vemos pronto!")
+alert ("¡Nos vemos pronto!")
